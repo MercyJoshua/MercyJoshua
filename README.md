@@ -6,6 +6,7 @@ I enjoy turning ideas into working products — from APIs and full-stack applica
 
 ### 🔭 Currently building
 
+* 🤖 **BotSentinel** — An ML model application for analyzing detecting botnets in web traffic
 * 🪄 **Muse** — an AI-powered personal stylist exploring personalized recommendations and multimodal AI
 * 🤖 **AI Web Protector** — a security middleware for detecting and mitigating common web attacks
 * 🛡️ **AI Governance & Assurance** — exploring practical approaches to AI governance, access control, policy enforcement, and auditability
